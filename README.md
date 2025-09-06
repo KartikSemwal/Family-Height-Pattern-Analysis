@@ -14,4 +14,4 @@ patterns vary by gender or age group._**
 
 **_This analysis not only serves as a practical application of data science and statistical techniques 
 but also contributes to understanding the broader questions around heredity and human 
-development.-**
+development._**
